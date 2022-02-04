@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :house_with_garden: I’m from Rio de Janeiro/Brazil.
 
-:books: I’m currently learning everything when possible.
+:books: I’m currently learning about everything when possible.
 
 :outbox_tray: 2022 Goals: Learn about mobile dev, create a new project and find a new freelancer job.
 
@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersoncampos)](https://github.com/andersoncampos)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/andersonccampos)](https://br.linkedin.com/in/andersonccampos)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersoncampos)](https://github.com/andersoncampos)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/andersonccampos)](https://br.linkedin.com/in/andersonccampos)
 
 - Thanks for visiting.
 
@@ -41,3 +39,7 @@ Here are some ideas to get you started:
 
 
 Welcome ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/andersoncampos)
+
+📈 My Status
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
