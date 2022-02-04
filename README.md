@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **andersoncampos/andersoncampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello World 🌎, I'm Anderson Campos 👋
+
+👨‍💻 I'm Back-End Developer!
+
+:house_with_garden: I’m from Rio de Janeiro/Brazil.
+
+:books: I’m currently learning everything when possible.
+
+:outbox_tray: 2022 Goals: Learn about mobile dev, create a new project and find a new freelancer job.
+
+
+:computer: My workspace
+
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![CPU_Badge](https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM_Badge](https://img.shields.io/badge/RAM-16_GB-0071C5?style=for-the-badge) ![GPU_Badge](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersoncampos)](https://github.com/andersoncampos)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/andersonccampos)](https://br.linkedin.com/in/andersonccampos)
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
+
+Welcome ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/andersoncampos)
